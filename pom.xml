@@ -20,17 +20,17 @@
 
     <groupId>com.adobe.aem</groupId>
     <artifactId>aem-project-archetype</artifactId>
-    <version>52-SNAPSHOT</version>
+    <version>1</version>
     <packaging>maven-archetype</packaging>
 
     <name>AEM Multi-Module Archetype</name>
     <description>AEM multi-module archetype.</description>
-    <url>https://github.com/adobe/aem-project-archetype/</url>
+    <url>https://github.com/ztea-adobe/aem-project-archetype</url>
 
     <scm>
-        <connection>scm:git:https://github.com/adobe/aem-project-archetype.git</connection>
-        <developerConnection>scm:git:https://github.com/adobe/aem-project-archetype.git</developerConnection>
-        <url>https://github.com/adobe/aem-project-archetype/tree/master/</url>
+        <connection>scm:git:https://github.com/ztea-adobe/aem-project-archetype.git</connection>
+        <developerConnection>scm:git:https://github.com/ztea-adobe/aem-project-archetype.git</developerConnection>
+        <url>https://github.com/ztea-adobe/aem-project-archetype/tree/master/</url>
         <tag>HEAD</tag>
     </scm>
     <licenses>
