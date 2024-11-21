@@ -18,8 +18,8 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>com.adobe.aem</groupId>
-    <artifactId>aem-project-archetype</artifactId>
+    <groupId>com.adobe.acs.aem</groupId>
+    <artifactId>aem-project-archetype-acs</artifactId>
     <version>1</version>
     <packaging>maven-archetype</packaging>
 
@@ -42,8 +42,8 @@
     </licenses>
     <developers>
         <developer>
-            <name>Adobe Reference Squad</name>
-            <email>ref-squad@adobe.com</email>
+            <name>ACS Technical Consultant</name>
+            <email>ztea@adobe.com</email>
         </developer>
     </developers>
 
